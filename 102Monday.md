@@ -69,4 +69,4 @@ It is considered good practice to be aware of spacing, as such between the tag a
 
 [Home](https://rookie2556.github.io/Notes/)
 [Prev](https://rookie2556.github.io/Notes/)
-[Next](https://rookie2556.github.io/Notes/102Tuesday.html)
+[Next](https://rookie2556.github.io/Notes/102Tuesday.md)
