@@ -1,6 +1,6 @@
-#Designing webpages with CSS
+# Designing webpages with CSS
 
-###What is CSS?
+### What is CSS?
 
 **css is Cascading style sheet**, a simple syntax language to mark up HTML files and *bruches* up the professionalism to an extent..
 
