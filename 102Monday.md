@@ -61,7 +61,7 @@ Unordered listing - to include a different listing style within would cause an e
   
 It is considered good practice to be aware of spacing, as such between the tag and text and blank lines before/after for easy compatibility.
     
-    [For a quick revision, visit here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[For a quick revision, visit here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ![Markdown in both general and specifically github](https://camo.githubusercontent.com/74c1a363e1cc6ec948387d2559f6e79a215499650b59531c1c12a66b61afc8b3/68747470733a2f2f73332d65752d776573742d312e616d617a6f6e6177732e636f6d2f69682d6d6174657269616c732f75706c6f6164732f75706c6f61645f63626237346161393939666565386163326463636637373638396564363062342e706e67)
   
