@@ -46,7 +46,7 @@ as my friend calls it.
 
 ![It's PRINTING!](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
 
-*ITS ALIVE!!!! err, I mean - after assembling it and calibrating the bed (and a few noodles of failed prints...)
+*ITS ALIVE!!!! err, I mean - after assembling it and calibrating the bed (and a few noodles of failed prints...)*
 
 
 ## What is this?
