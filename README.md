@@ -43,24 +43,34 @@ as my friend calls it.*
 
 ![Phone case, hexagon design](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
 
+*I had spent an entire night learning how to use 3d software to make my own design of spatula 3000, it ain't perfect but it's mine <3 *
+
 ![SpongeSpats](https://user-images.githubusercontent.com/122787483/213056396-3bf12648-ac83-49f4-8396-55b87a1c395d.png)
+
+*sliced it into two so it'd be easier on me to print in one go and so I didnt have to use supports for the previously levitating metal part of the spatula*
 
 ![spatVoxelmaker](https://user-images.githubusercontent.com/122787483/213056410-732f899f-b263-4cfa-a33b-321cb207c9cc.png)
 
+*Patrick design, intended to put them together eventually but due to materials I am going to continue this at a later date.*
+
 ![Patrick Phone design](https://user-images.githubusercontent.com/122787483/213061444-c4c5cecf-ccd5-4821-a196-7b1da986fd7f.jpg)
 
+*I LEFT IT OVERNIGHT!!! SO MUCH PLASTIC WASTED*
 ![wasting plastic :/](https://user-images.githubusercontent.com/122787483/213061544-f46a395d-ed59-4358-afb7-d8e27ab713d2.jpg)
 
+*Sponge using the spatula in the show, also was my reference photo*
 ![Spongebob holding the spatula 3000](https://user-images.githubusercontent.com/122787483/213061648-7f4eb17e-49c6-40c2-a66e-07c9559da633.jpg)
 
 *ITS ALIVE!!!! err, I mean - after assembling it and calibrating the bed (and a few noodles of failed prints...)* -- didnt come out right :/
 ![Printing for first time, test hook](https://user-images.githubusercontent.com/122787483/213061764-52aaa01e-a817-4ace-ab75-c264cef8ac54.mp4)
 
-
+*The print is failing, my first print was failing*
 ![reckon this one is failing?](https://user-images.githubusercontent.com/122787483/213061867-2d0d0005-8b97-4d87-a684-e4cc1315ad6c.mp4)
 
-![Shaking issue](https://user-images.githubusercontent.com/122787483/213061921-9d37f17c-0e13-4dae-84ef-1a3a7f641c76.mp4)
+*I learnt to adapt, my taller prints were falling over and thus, failing to print properly - my solution? SELOTAPE THAT TO THE BED (There were no bed glue near me and I can't wait for another parcel again, I have PTSD from the plastic)
 
+
+![Shaking issue](https://user-images.githubusercontent.com/122787483/213061921-9d37f17c-0e13-4dae-84ef-1a3a7f641c76.mp4)
 
 ## What is this?
 
