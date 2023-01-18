@@ -79,7 +79,16 @@ Css can define colours by a variety of value types such as:
 
 Values can be initalised e.g. brought back to default, or inherit from any parent nodes.
 
+From the quiz:
+
+- ID selector is using very specific element to select what attributes to edit e.g. #sitemap
+- Class selector is using classes to select what attributes to edit. e.g. .intro {Changes}
+- Element selector is using HTML tags to select all elements to edit e.g. p {Change}
+- Universal selector grabs elements of all types, * 
+- Attribute selector selects based on already input values such as colour, links etc
+- Psuedo class selector Selects only when certain parameters are met, followed by hover, focus or active.
+
 ## Things I want to learn about
 
 - I want to understand specs more
-- I didn't know what the a extension on rbg and hsl meant
+- I didn't know what the a extension on rbg and hsl meant - through the quiz, It is the strength of that colour, still unsure as to what "a" stands for but know its' role.
