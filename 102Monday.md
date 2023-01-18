@@ -33,7 +33,7 @@ According to google Markdown's definition is as follows:
 > a reduction in price.
 > "markdowns of up to 50 per cent on many items"
 
-*mmm, perhaps google is talking about something else :/.. 
+*mmm, perhaps google is talking about something else :/..* 
 
 Mark down is where there is minimal annotation to dictate the behavior of text, whenever this be just a title, paragraph or heading or for short, a lightweight variation of markup languages e.g. a lighter version of html, markdown is used in github.
 
