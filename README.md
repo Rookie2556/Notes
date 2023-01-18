@@ -12,10 +12,10 @@ This is as part of my coding course, where I will learn how to be a master coder
 
 [Authors' work](https://github.com/Rookie2556)
 
-Table of content:
+#Table of content:
 
--- a 
+-- [First day!](102Monday.md)
 
--- b 
+-- [Second day!](102Tuesday.md)
 
--- c
+-- left open for future days
