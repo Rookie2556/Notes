@@ -70,7 +70,7 @@ as my friend calls it.*
 
 ![spatVoxelmaker](https://user-images.githubusercontent.com/122787483/213056410-732f899f-b263-4cfa-a33b-321cb207c9cc.png)
 
-*I've yet to start printing the spatula 3000. This whole experience has been fun, taught me troubleshooting and admitedly makeshift solutions and a whole bunch of software I'd never interacted with. I'm lovin'it wait no this isn't macdonalds. ooo I could try design a plastic burger * 😲
+*I've yet to start printing the spatula 3000. This whole experience has been fun, taught me troubleshooting and admitedly makeshift solutions and a whole bunch of software I'd never interacted with. I'm lovin'it wait no this isn't macdonalds. ooo I could try design a plastic burger* 😲
 
 ## What is this?
 
