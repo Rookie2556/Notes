@@ -6,11 +6,12 @@ I am Thomas Moore, I like motorbikes and 3d printing.. Been obsessing over my pr
 First day - I spent a good few hours assembling it, and admitedly I'm not great at assembly :) - The Model is an Aquila C2 which is meant to be an ender 3 clone with a slight upgrade. An entry level 3d printer costing around £180 on amazon.
 
 ![Assembly, alan key horrors!](https://user-images.githubusercontent.com/122787483/213053702-6e824744-5633-438f-9348-c8a55d054085.jpg) 
+
 *Me assembling it, didn't realise it came with an alan key so ended up spending a good while messing around with a modular alan key.*
 
 ![Whoo Assembled](https://user-images.githubusercontent.com/122787483/213053722-71807b3c-2c61-451e-b48d-43c1fd4cf312.jpg)
 
-*hard day of work and it was completed! (probably would've been faster if I knew what I was doing*
+*hard day of work and it was completed! (probably would've been faster if I knew what I was doing)*
 
 ![Patrick designed](https://user-images.githubusercontent.com/122787483/213053731-f3473487-289c-45e7-8c6d-7e9e49d924f2.jpg)
 
