@@ -17,11 +17,13 @@ First day - I spent a good few hours assembling it, and admitedly I'm not great 
 
 *Patrick design, I was very proud of this as this was my first time interacting with designing software!*
 
-![Spatula 3000](https://user-images.githubusercontent.com/122787483/213053751-d41a3726-b5db-4057-ad08-2fa145cab68c.jpg)
+![Successful prints (red)](https://user-images.githubusercontent.com/122787483/213053751-d41a3726-b5db-4057-ad08-2fa145cab68c.jpg)
 
-*The Spatula 3000 in an episode of spongebob that I thought was funny*
+*Ran out of plastic, the printer came with 0.05kg Red PLA filament, notice how the skull is half way?*
 
 ![2 printed patricks](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
+
+*The Spatula 3000 in an episode of spongebob that I thought was funny*
 
 *Successfully printed patrick twice, although they have no detail so I learnt to add more depth to line art. (though never printed again of course.)
 
