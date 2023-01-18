@@ -53,7 +53,7 @@ Unordered listing - to include a different listing style within would cause an e
 - b
   - c
   
-        Code blocks
+        Code blocks - just indent 4/8 times for me!
   <.html> whoooo <./html>
           -![alt title](Link) - An image! V useful much wowsers
             -[title] (link)
