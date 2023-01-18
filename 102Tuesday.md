@@ -2,6 +2,7 @@
 
 A text editor is by google definition:
 
+[Text editor](https://kinsta.com/wp-content/uploads/2019/03/notepad-plus-plus-text-editor-1-1.png)
 
 > text editor
 > Learn to pronounce
@@ -9,6 +10,10 @@ A text editor is by google definition:
 > a system or program that allows a user to edit text.
 
 To us, it is the software with the capability to edit code, and usually has some sort of additional features over say... *notepad*. A bit like how artists would prefer to use Adobe illustrator, Krita etc over MS PAINT included with windows for it's features, *technically* one could become an artist in paint but it'd be **much** easier in krita as errr... graphics tablets have errrr... better compatibility *I'm guessing, I'm a computery guy not an artist*
+
+[Krita vs MS paint](https://preview.redd.it/hs5ra12f3y881.png?width=640&crop=smart&auto=webp&s=c3500929b36b700e85ebf063d38a48a18e4c8aa3) 
+
+[Krita](https://krita.org/wp-content/uploads/2019/08/krita-ui-40.png)
 
 Text editors not made for coding, will oftentimes be an annoyance to format and indent code for. e.g. slightly off so you gotta backspace and space to fix it... saving extensions under "all file types" .html *ugh*. This "code" specific text editors are usually called "IDE"s which means integrated development environment.
 
@@ -23,10 +28,19 @@ Extensions are especially useful for saving time as they usually have some modul
 Some good text editors are:
 
 * Notepad++, free to use
+[Notepad++](https://i.pcmag.com/imagery/articles/01rBnPopClrTbcmGbFMDwIE-1..v1597666892.jpg)
+
 * VS code, free to use
+[VS CODE](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
+
 * Atom, free to use
+[Atom IDE](https://lunaticthinker.me/wp-content/uploads/2016/05/atom.jpg)
+
 * Brackets, free to use
+[Brackets IDE](https://www.omgubuntu.co.uk/wp-content/uploads/2017/07/brackets-for-linux.jpg)
+
 * Sublime Text, **NOT FREE, I wouldn't pay for an IDE personally** 
+[Sublime IDE](https://cdn.britannica.com/96/198296-050-65D1A810/Clowns-tour-Ringling-Bros-Barnum-Atlanta-2017.jpg)
 
 ## Terminal work
 
@@ -67,6 +81,9 @@ In Addition to the note taking aspect, the lab taught me how to use these comman
 - staging
 - touch (creates files, however need to include file extensions e.g. .md)
 - code [file] (opens in VS code)
+
+> We've not touched most of this yet
+[Cheat Sheet for WLS](https://i.redd.it/rl0fe7r6zku11.jpg)
 
 Git is the local copy of the github, GitHub is the remote copy of the git. *depending how you see it* they require each other to properly function.
 
