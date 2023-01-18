@@ -91,4 +91,4 @@ From the quiz:
 ## Things I want to learn about
 
 - I want to understand specs more
-- I didn't know what the a extension on rbg and hsl meant - through the quiz, It is the strength of that colour, still unsure as to what "a" stands for but know its' role.
+- I didn't know what the a extension on rbg and hsl meant - through the quiz, It is the strength of that colour, still unsure as to what "a" stands for but know its' role. -- I now know  it stands for alpha, no idea why.
