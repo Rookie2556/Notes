@@ -165,10 +165,63 @@ Like any other programming language (Not markdown or up), Variables need **uniqu
 > Names are case sensitive (y and Y are different variables).
 > Reserved words (like JavaScript keywords) cannot be used as names.
 
-** JS is CaSeSeNsiTivE **
+**JS is CaSeSeNsiTivE**
 
+## Assignment operator: (=)
+
+*Like most programming languages, = is given the assignment operator*
+> x = x + 5
+would mean that x's new value is increased by 5 per time this is looped, unless it is predefined previously in the program.
+
+> x == y
+would mean that x is equal to y/
+
+## Data Types!
+
+>Const pi = 3.14;
+>let person = "John Doe";
+>let answer = 'Yes I am!';
+
+*This is important, as treating variables as the incorrect data type will most likely have an effect on your code,  as such a number being treated as a string, e.g.
+
+> const pi = "3.14"
+> const pieces_Of_Pie = 10;
+> let Total = pi + pieces_Of_Pie
+Would produce 3.1410 as the code sees them as strings, as they are *Letters* (kinda).. If one data type being used **is** in speechmarks, the rest is treated as a string as well!
+
+When the intended result was 13.14 as a number - avoidable if speechmarks weren't used.
+Another example is the usage of addition between two datatypes usually won't work, the code may ask you to convert one of the two data types.
+
+# Creating a variable:
+
+To create a variable one would use "var VroomVroomName;" or "let VroomVroomName;", then assign it a value e.g. VroomVroomName = "Volvo"; **This is usually done as one line, " let VroomVroomName = "Volvo"; " It is good practice to declare all variables at the start of the program.
+
+One could declare *Multiple* variables in a single line as such:
+
+> let person = "Ronald macdonald", Resaurant = "Macdonalds", price = 0.99;
+The above has 3 variables ready for use, admitedly I don't think they have much use so more variables would be needed..
+
+* if var AFTER defined previously, it doesn't lose its' value.* but let or const will not work.
+
+> let x = 10 + 2 + 14;
+The above would work as 10 2 and 14 don't need to be declared result is 26, same goes for strings:
+> let unknown_Person = "John" + " " + "Doe";
+The above would work as "John" and "Doe" don't need to be declared, the result would be unknown_Person = John Doe.
+
+$ is a valid Js Variable name, I wouldn't use it in other programming languages *to be perfectly honest*..
+underscore is another valid Js Variable name, Usually mixed with letters e.g. "_lastName", "full_Name" et cetera..
+
+[This content is from here](https://www.w3schools.com/js/js_variables.asp)!
 
 ## I would like to learn more about:
 
 - The Script part, I didn't fully understand what I was reading around this part and would like it explained to me.
 - I was not able to run any code personally, so I used the website's "Try me"s to learn coding for the time being, until I am properly introduced to JavaScript.
+- > <p id="demo"></p>
+
+  > <script>
+  > let carName = "Volvo";
+  > document.getElementById("demo").innerHTML = carName;
+  > </script>
+ **I didn't really understand this.**
+
