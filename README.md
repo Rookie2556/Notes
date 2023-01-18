@@ -38,7 +38,23 @@ as my friend calls it.*
 *Printed a phone case but the quality was bad and the plastic was too hard, so I started researching into plastics and ordered some. Perks of living in rural areas, stuff take ages to come here :upside_down_face:
 ![Phone case, hexagon design](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
 
+![SpongeSpats](https://user-images.githubusercontent.com/122787483/213056396-3bf12648-ac83-49f4-8396-55b87a1c395d.png)
+
+![spatVoxelmaker](https://user-images.githubusercontent.com/122787483/213056410-732f899f-b263-4cfa-a33b-321cb207c9cc.png)
+
+![Patrick Phone design](https://user-images.githubusercontent.com/122787483/213061444-c4c5cecf-ccd5-4821-a196-7b1da986fd7f.jpg)
+
+![wasting plastic :/](https://user-images.githubusercontent.com/122787483/213061544-f46a395d-ed59-4358-afb7-d8e27ab713d2.jpg)
+
+![Spongebob holding the spatula 3000](https://user-images.githubusercontent.com/122787483/213061648-7f4eb17e-49c6-40c2-a66e-07c9559da633.jpg)
+
 *ITS ALIVE!!!! err, I mean - after assembling it and calibrating the bed (and a few noodles of failed prints...)* -- didnt come out right :/
+![Printing for first time, test hook](https://user-images.githubusercontent.com/122787483/213061764-52aaa01e-a817-4ace-ab75-c264cef8ac54.mp4)
+
+
+![reckon this one is failing?](https://user-images.githubusercontent.com/122787483/213061867-2d0d0005-8b97-4d87-a684-e4cc1315ad6c.mp4)
+
+![Shaking issue](https://user-images.githubusercontent.com/122787483/213061921-9d37f17c-0e13-4dae-84ef-1a3a7f641c76.mp4)
 
 
 ## What is this?
