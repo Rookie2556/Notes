@@ -72,14 +72,14 @@ as my friend calls it.*
 
 *I've yet to start printing the spatula 3000. This whole experience has been fun, taught me troubleshooting and admitedly makeshift solutions and a whole bunch of software I'd never interacted with. I'm lovin'it wait no this isn't macdonalds. ooo I could try design a plastic burger* 😲
 
-## What is this?
+## So, What is the point of this page?
 
-This is as part of my coding course, where I will learn how to be a master coder.
+This page in particular is to introduce myself, tell you about me and provide a table of links leading to notes I've made throughout my coding course, to become a master coder 😎
 
 
-[Authors' work](https://github.com/Rookie2556)
+# Table of contents:
 
-# Table of content:
+- [Authors' Profile](https://github.com/Rookie2556)
 
 -- [First day!](102Monday.md)
 
