@@ -21,7 +21,7 @@ First day - I spent a good few hours assembling it, and admitedly I'm not great 
 
 *Ran out of plastic, the printer came with 0.05kg Red PLA filament, notice how the skull is half way?*
 
-![2 printed patricks](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
+![spatula 3000](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
 
 *The Spatula 3000 in an episode of spongebob that I thought was funny*
 
