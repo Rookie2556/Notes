@@ -161,10 +161,10 @@ Images are done using img src=path alt=if can't load, what text replaces it with
 
 ### most common html elements:
 
-- <h1> **huge text </h1> <h6> <sup><sub>Add your tiny text</sub></sup> </h6> 
-- <p> paragraphs </p>
-- <ul> lists </ul> <ol> ordered </ol>
-- <a> link </a> href would make it like the example given above.
+    - <h1> **huge text** </h1> <h6> <sup><sub>Add your tiny text</sub></sup> </h6> 
+    - <p> paragraphs </p>
+    - <ul> lists </ul> <ol> ordered </ol>
+    - <a> link </a> href would make it like the example given above.
 
  ## Things I want to know more about
 
