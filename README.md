@@ -23,7 +23,7 @@ First day - I spent a good few hours assembling it, and admitedly I'm not great 
 
 ![spatula 3000](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
 
-*The Spatula 3000 in an episode of spongebob that I thought was funny*
+*The Spatula 3000 in an episode of spongebob that I thought was funny.*
 
 *Successfully printed patrick twice, although they have no detail so I learnt to add more depth to line art. (though never printed again of course.)
 
