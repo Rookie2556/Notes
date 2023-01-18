@@ -91,6 +91,7 @@ Git is the local copy of the github, GitHub is the remote copy of the git. *depe
 ## Things I want to know more about
 
 - I had to type out "file1.md file2.md..." to 8 and to 15 multiple times, is there a faster way to type this out e.g. file{1-8}.md? (in the lab)
+- what is worth paying £70 for an ide??!
 
 [Home](https://rookie2556.github.io/Notes/) 
 [Prev](102Monday.md) 
