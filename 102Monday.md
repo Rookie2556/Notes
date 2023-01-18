@@ -17,7 +17,7 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 ## How Do you stay in growth mindset?
 
-- 1 such method could be that you set up reminders of growth mindet around your room - an encoraging poster with a kitten saying > "You can do it!" ![Rockin cat](https://media.tenor.com/8TuHoy4DokYAAAAC/cat-you-got-this.gif)
+- One such method could be that you set up reminders of growth mindet around your room - an encoraging poster with a kitten saying > "You can do it!" ![Rockin cat](https://media.tenor.com/8TuHoy4DokYAAAAC/cat-you-got-this.gif)
 
 - Another method could be to seek feedback and constructive critism (plain mean critism helps no one), when this could be a friend, a boss or even your little brother Steven (if he's old enough, my brother steven is 4 years old so probably wouldn't be helpful for software engineering feedback..)
 
@@ -25,19 +25,20 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 ## 2 Labs in one day? Err Welcome to Markdown101!
 
-According to google > markdown
+According to google 
+> markdown
 > /ˈmɑːkdaʊn/
 > Learn to pronounce
 > noun
 > a reduction in price.
 > "markdowns of up to 50 per cent on many items"
 
-mmm, perhaps google is talking about something else :/..
+* mmm, perhaps google is talking about something else :/.. *
 
--Mark down is where there is minimal annotation to dictate the behavior of text, whenever this be just a title, paragraph or heading or for short, a lightweight variation of markup languages e.g. a lighter version of html, markdown is used in github.
+Mark down is where there is minimal annotation to dictate the behavior of text, whenever this be just a title, paragraph or heading or for short, a lightweight variation of markup languages e.g. a lighter version of html, markdown is used in github.
 
--- An example of this is "##" being a markdown to make text a heading, or "-" to make a listing. This cleans up the text in a more presentable manner, this could be a much easier method to create a website relative to markup languages such as HTML or CSS where the number of types of annotations you could make are far greater and generally more complicated.
+- An example of this is "##" being a markdown to make text a heading, or "-" to make a listing. This cleans up the text in a more presentable manner, this could be a much easier method to create a website relative to markup languages such as HTML or CSS where the number of types of annotations you could make are far greater and generally more complicated.
 
--- Another example is > Quoting speech , another could be listing, as such this list was created using dashes!
+- Another example is > Quoting speech , another could be listing, as such this list was created using dashes!
 
--- Most users would learn markdown in a matter of minutes as it is generally straight forwards, commonly used WYSIWYG (What you see is what you get) generators or HTML generators.
+- Most users would learn markdown in a matter of minutes as it is generally straight forwards, commonly used WYSIWYG (What you see is what you get) generators or HTML generators.
