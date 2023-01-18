@@ -86,7 +86,7 @@ In Addition to the note taking aspect, the lab taught me how to use these comman
 > We've not touched most of this yet
 ![Cheat Sheet for WLS](https://i.redd.it/rl0fe7r6zku11.jpg)
 
-Git is the local copy of the github, GitHub is the remote copy of the git. *depending how you see it* they require each other to properly function.
+Git is the local copy of the github, GitHub is the remote copy of the git. *depending how you see it*, they require each other to properly function.
 
 ## Things I want to know more about
 
