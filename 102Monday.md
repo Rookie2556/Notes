@@ -51,12 +51,12 @@ Unordered listing - to include a different listing style within would cause an e
   
 - a
 - b
--+ c
+-- c
   
         Code blocks
-  <html> whoooo </html>
-          ![alt title](Link) - An image! V useful much wowsers
-            [title] (link)
+  <.html> whoooo <./html>
+          -![alt title](Link) - An image! V useful much wowsers
+            -[title] (link)
           
   
 It is considered good practice to be aware of spacing, as such between the tag and text and blank lines before/after for easy compatibility.
