@@ -2,12 +2,10 @@
 
 A text editor is by google definition:
 
-[Text editor](https://kinsta.com/wp-content/uploads/2019/03/notepad-plus-plus-text-editor-1-1.png)
-
-> text editor
-> Learn to pronounce
-> nounCOMPUTING
-> a system or program that allows a user to edit text.
+  > text editor -
+  > Learn to pronounce - 
+  > nounCOMPUTING -
+  > a system or program that allows a user to edit text.
 
 To us, it is the software with the capability to edit code, and usually has some sort of additional features over say... *notepad*. A bit like how artists would prefer to use Adobe illustrator, Krita etc over MS PAINT included with windows for it's features, *technically* one could become an artist in paint but it'd be **much** easier in krita as errr... graphics tablets have errrr... better compatibility *I'm guessing, I'm a computery guy not an artist*
 
