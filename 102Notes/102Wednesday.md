@@ -51,7 +51,7 @@ Git holds all files in one of 3 states:
  
  git help command - gives you help to find the apropriate commands.
  
- [Git Cheat sheet](https://www.git-tower.com/blog/media/pages/posts/git-cheat-sheet/0300e8b724-1673353125/git-cheat-sheet-large01.png)
+![Git Cheat sheet](https://www.git-tower.com/blog/media/pages/posts/git-cheat-sheet/0300e8b724-1673353125/git-cheat-sheet-large01.png)
  
  The Above is fairly useful, however within minutes of using git - You get used to it!
  
