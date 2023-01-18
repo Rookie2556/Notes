@@ -9,31 +9,40 @@ First day - I spent a good few hours assembling it, and admitedly I'm not great 
 *Me assembling it, didn't realise it came with an alan key so ended up spending a good while messing around with a modular alan key.*
 
 ![Whoo Assembled](https://user-images.githubusercontent.com/122787483/213053722-71807b3c-2c61-451e-b48d-43c1fd4cf312.jpg)
+
 *hard day of work and it was completed! (probably would've been faster if I knew what I was doing*
 
-![Printed 5 red models nice](https://user-images.githubusercontent.com/122787483/213053731-f3473487-289c-45e7-8c6d-7e9e49d924f2.jpg)
-*The 0.05kg red PLA filament ran out mid print, this is what I managed to print with it!*
+![Patrick designed](https://user-images.githubusercontent.com/122787483/213053731-f3473487-289c-45e7-8c6d-7e9e49d924f2.jpg)
+
+*Patrick design, I was very proud of this as this was my first time interacting with designing software!*
 
 ![Spatula 3000](https://user-images.githubusercontent.com/122787483/213053751-d41a3726-b5db-4057-ad08-2fa145cab68c.jpg)
+
 *The Spatula 3000 in an episode of spongebob that I thought was funny*
 
 ![2 printed patricks](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
+
 *Successfully printed patrick twice, although they have no detail so I learnt to add more depth to line art. (though never printed again of course.)
 
 ![Success rate](https://user-images.githubusercontent.com/122787483/213053817-d405a6bf-4617-4a62-abd5-3a8a51b218f2.jpg)
+
 *At this point in time, my success rate was appaling, 7 successful prints in a sea of >fish poo
 as my friend calls it.
 
 ![Printed armrest delete for someone](https://user-images.githubusercontent.com/122787483/213053814-301b0b6a-dd79-451b-9b52-d13110ec36f6.jpg)
+
 *Printed an armrest delete for a friend, also printed a first gear retainer for his ford mk4 1998 or something, idk I'm not too familiar with cars. That retainer snapped as he put too much force onto it and so I printed another and that one works!
 
 ![Finn sword](https://user-images.githubusercontent.com/122787483/213053774-4248bdda-4a52-438d-9fa0-df74170fea36.jpg)
+
 *This took 10+ prints to get all the pieces over a span of roughly a week, I intend to sand and put this together, then spray paint it eventually.*
 
 ![Phone case](https://user-images.githubusercontent.com/122787483/213053794-db718217-fdbc-4b93-a081-71441c0e5c58.jpg)
+
 *Printed a phone case but the quality was bad and the plastic was too hard, so I started researching into plastics and ordered some. Perks of living in rural areas, stuff take ages to come here :upside_down_face:
 
 ![It's PRINTING!](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
+
 *ITS ALIVE!!!! err, I mean - after assembling it and calibrating the bed (and a few noodles of failed prints...)
 
 
