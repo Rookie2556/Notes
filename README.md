@@ -1,7 +1,7 @@
 # Intro and table of contents!
 ## Who is Tomothy?
 
-I am Thomas Moore, I like motorbikes and 3d printing.. Been obsessing over my printer for the Half month, It's pretty fun but generally has a lower than I'd like it success rate however these days my baby is doing better :smiling_face_with_three_hearts:	
+I am Thomas Moore, I like motorbikes, coding/general computer stuff and 3d printing.. been obsessing over my printer for the Half month, It's pretty fun but generally has a lower than I'd like it success rate however these days my baby is doing better :smiling_face_with_three_hearts:	
 
 First day - I spent a good few hours assembling it, and admitedly I'm not great at assembly :) - The Model is an Aquila C2 which is meant to be an ender 3 clone with a slight upgrade. An entry level 3d printer costing around £180 on amazon.
 
