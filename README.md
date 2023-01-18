@@ -14,14 +14,11 @@ I am ``Thomas Moore``, I like motorbikes, coding/general computer stuff and 3d p
 *A hard days of work and it was completed! (probably would've been faster if I knew what I was doing)*
 ![Whoo Assembled](https://user-images.githubusercontent.com/122787483/213053722-71807b3c-2c61-451e-b48d-43c1fd4cf312.jpg)
 
-*Patrick design, I was very proud of this as this was my first time interacting with designing software!*
-![Patrick designed](https://user-images.githubusercontent.com/122787483/213053731-f3473487-289c-45e7-8c6d-7e9e49d924f2.jpg)
-
 *Ran out of plastic, the printer came with 0.05kg Red PLA filament, notice how the skull is half way?*
 ![Successful prints (red)](https://user-images.githubusercontent.com/122787483/213053751-d41a3726-b5db-4057-ad08-2fa145cab68c.jpg)
 
-*The Spatula 3000 in an episode of spongebob that I thought was funny.*
-![spatula 3000](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
+*Patrick design, I was very proud of this as this was my first time interacting with designing software!*
+![Patrick designed](https://user-images.githubusercontent.com/122787483/213053731-f3473487-289c-45e7-8c6d-7e9e49d924f2.jpg)
 
 *Successfully printed patrick twice, although they have no detail so I learnt to add more depth to line art. (though never printed again of course.)*
 
@@ -31,21 +28,24 @@ I am ``Thomas Moore``, I like motorbikes, coding/general computer stuff and 3d p
 as my friend calls it.*
 ![Success rate](https://user-images.githubusercontent.com/122787483/213053814-301b0b6a-dd79-451b-9b52-d13110ec36f6.jpg)
 
-*Printed an armrest delete for a friend, also printed a first gear retainer for his ford mk4 1998 or something, idk I'm not too familiar with cars. That retainer snapped as he put too much force onto it and so I printed another and that one works!
+*Printed a phone case but the quality was bad and the plastic was too hard, so I started researching into TPU ABS PLA and a bunch of other plastics and ordered some TPU. Perks of living in rural areas, stuff take ages to come here* 🙃
+
+![Phone case, hexagon design](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
+
+*Printed an armrest delete for a friend, also printed a first gear retainer for his ford mk4 1998 or something, idk I'm not too familiar with cars. That retainer snapped as he put too much force onto it and so I printed another and that one works!*
 ![Armrest delete car doodad](https://user-images.githubusercontent.com/122787483/213053774-4248bdda-4a52-438d-9fa0-df74170fea36.jpg)
 
-*This took 10+ prints to get all the pieces over a span of roughly a week, I intend to sand and put this together, then spray paint it eventually.*
+*This Finns's blue sword took 10+ prints to get all the pieces over a span of roughly a week, I intend to sand and put this together, then spray paint it eventually. (buttttt got sidetracked)- *
 
 ![Finn sword](https://user-images.githubusercontent.com/122787483/213053794-db718217-fdbc-4b93-a081-71441c0e5c58.jpg)
 ![Finn holding his sword](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3bd5c14f-e92a-4f48-80f5-fbf9a8d668d6/d8mdj9f-6f926b30-352f-4f6a-9cef-43de9ff9aed9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNiZDVjMTRmLWU5MmEtNGY0OC04MGY1LWZiZjlhOGQ2NjhkNlwvZDhtZGo5Zi02ZjkyNmIzMC0zNTJmLTRmNmEtOWNlZi00M2RlOWZmOWFlZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.lyt4ZxR6LRBm-47-WshfxTo6O9c6hV8Ja3BlM6Vd8U0)
 
 *I don't even watch adventure time, this was using someone else's stl designs..*
 
-*Printed a phone case but the quality was bad and the plastic was too hard, so I started researching into TPU ABS PLA and a bunch of other plastics and ordered some TPU. Perks of living in rural areas, stuff take ages to come here* 🙃
+*The Spatula 3000 in an episode of spongebob that I thought was funny.*
+![spatula 3000](https://user-images.githubusercontent.com/122787483/213053803-06836ac6-fed8-48da-9abc-ae499d515d4a.jpg)
 
-![Phone case, hexagon design](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
-
-*I had spent an entire night learning how to use 3d software to make my own design of spatula 3000, it ain't perfect but it's mine* 💔
+*I had spent a few nights learning how to use 3d software to make my own design of spatula 3000, it ain't perfect but it's mine* 💔
 
 ![SpongeSpats](https://user-images.githubusercontent.com/122787483/213056396-3bf12648-ac83-49f4-8396-55b87a1c395d.png)
 
