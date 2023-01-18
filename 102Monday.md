@@ -17,7 +17,7 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 ## How Do you stay in growth mindset?
 
-- One such method could be that you set up reminders of growth mindet around your room - an encoraging poster with a kitten saying > "You can do it!" ![Rockin cat](https://media.tenor.com/8TuHoy4DokYAAAAC/cat-you-got-this.gif)
+- One such method could be that you set up reminders of growth mindet around your room - an encoraging poster with a kitten saying **"You can do it!"** ![Rockin cat](https://media.tenor.com/8TuHoy4DokYAAAAC/cat-you-got-this.gif)
 
 - Another method could be to seek feedback and constructive critism (plain mean critism helps no one), when this could be a friend, a boss or even your little brother Steven (if he's old enough, my brother steven is 4 years old so probably wouldn't be helpful for software engineering feedback..)
 
