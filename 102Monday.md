@@ -25,7 +25,7 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 ## 2 Labs in one day? Err Welcome to Markdown101!
 
-According to google 
+According to google Markdown's definition is as follows: 
 > markdown
 > /ˈmɑːkdaʊn/
 > Learn to pronounce
