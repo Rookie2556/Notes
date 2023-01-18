@@ -1,9 +1,11 @@
 # Intro and table of contents!
 ## Who is Tomothy?
 
-I am Thomas Moore, I like motorbikes, coding/general computer stuff and 3d printing.. been obsessing over my printer for the Half month, It's pretty fun but generally has a lower than I'd like it success rate however these days my baby is doing better :smiling_face_with_three_hearts:	
+I am ``Thomas Moore``, I like motorbikes, coding/general computer stuff and 3d printing.. Whenever I am currently in a phase of liking something, it is my whole personality, and this is supposed to be my bio sooo...
 
-First day - I spent a good few hours assembling it, and admitedly I'm not great at assembly :) - The Model is an Aquila C2 which is meant to be an ender 3 clone with a slight upgrade. An entry level 3d printer costing around £180 on amazon.
+*I've been obsessing over my printer for the last half a month, it's pretty fun but generally has a lower than I'd like it success rate however these days my baby is doing better* 🥰
+
+``First day owning a 3d printer`` - *I spent a good few hours assembling it, and admitedly I'm not great at assembly :) - The Model is an Aquila C2 which is meant to be an ender 3 clone with a slight upgrade. An entry level 3d printer costing around £180 on amazon.*
 
 *Me assembling it, didn't realise it came with an alan key so ended up spending a good while messing around with a modular alan key.*
 
@@ -39,11 +41,11 @@ as my friend calls it.*
 
 *I don't even watch adventure time, this was using someone else's stl designs..*
 
-*Printed a phone case but the quality was bad and the plastic was too hard, so I started researching into TPU ABS PLA and a bunch of other plastics and ordered some TPU. Perks of living in rural areas, stuff take ages to come here :upside_down_face: *
+*Printed a phone case but the quality was bad and the plastic was too hard, so I started researching into TPU ABS PLA and a bunch of other plastics and ordered some TPU. Perks of living in rural areas, stuff take ages to come here* 🙃
 
 ![Phone case, hexagon design](https://user-images.githubusercontent.com/122787483/213053790-f8440566-8134-425c-a5f3-8b40b9279bd3.jpg)
 
-*I had spent an entire night learning how to use 3d software to make my own design of spatula 3000, it ain't perfect but it's mine <3 *
+*I had spent an entire night learning how to use 3d software to make my own design of spatula 3000, it ain't perfect but it's mine* 💔
 
 ![SpongeSpats](https://user-images.githubusercontent.com/122787483/213056396-3bf12648-ac83-49f4-8396-55b87a1c395d.png)
 
