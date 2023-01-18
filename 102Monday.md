@@ -21,7 +21,7 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 - Another method could be to seek feedback and constructive critism (plain mean critism helps no one), when this could be a friend, a boss or even your little brother Steven (if he's old enough, my brother steven is 4 years old so probably wouldn't be helpful for software engineering feedback..)
 
-- Finally, Self feedback - review your own actions and learn from ``misttakes`` ~~ mistKES ~~ mistakes every once in a while, this would force yourself to recognise where you've improved, make new strategies for improvements and both whats' going well, and well... not.
+- Finally, Self feedback - review your own actions and learn from ``misttakes`` <s> mistKES </s> mistakes every once in a while, this would force yourself to recognise where you've improved, make new strategies for improvements and both whats' going well, and well... not.
 
 ## 2 Labs in one day? Err Welcome to Markdown101!
 
