@@ -16,6 +16,9 @@ Mark down is where there is minimal annotation to dictate the behavior of text, 
 
 - Another example is > Quoting speech , another could be listing, as such this list was created using dashes!
 
+[Another example of how basic and easy markdown is](https://open-learning-exchange.github.io/pages/vi/images/vi-markdown-syntax.png)
+As shown above, Markdown has a basic touch to it and really easy to do, you won't be dropping jaws with the quality markdown can achieve but It's definitely better than no markdown!
+
 - Most users would learn markdown in a matter of minutes as it is generally straight forwards, commonly used WYSIWYG (What you see is what you get) generators or HTML generators.
 
 Most Markdowns have fairly similar syntax as such <b> usually means bold, <i> italics et cetera. One would even be able to use alternative syntax such as ** bold ** using double asterisks or <b>
@@ -34,7 +37,20 @@ Examples:
   > <.html> whoooo <./html>
   >        -![alt title](Link) - An image! V useful much wowsers
   >          -[title] (link)
-          
+  
+ Markdown	HTML	Rendered Output
+# Heading level 1	<h1>Heading level 1</h1>	
+Heading level 1
+## Heading level 2	<h2>Heading level 2</h2>	
+Heading level 2
+### Heading level 3	<h3>Heading level 3</h3>	
+Heading level 3
+#### Heading level 4	<h4>Heading level 4</h4>	
+Heading level 4
+##### Heading level 5	<h5>Heading level 5</h5>	
+Heading level 5
+###### Heading level 6	<h6>Heading level 6</h6>	
+Heading level 6
   
 It is considered good practice to be aware of spacing, as such between the tag and text and blank lines before/after for easy compatibility.
     
