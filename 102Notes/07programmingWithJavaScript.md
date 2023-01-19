@@ -164,6 +164,6 @@ This would result the same as x +5.
 ## I want to know more about
 - I want to have more practice with "demo").innerHTML = .. type scenarios as I was really testing my confidence and attempted to explain it as simply as I could in attempt to better understand and may not quite understand yet.
 
-* [Home](/102Notes/01MarkDown.md)
-* [Prev (06, Activate Web Pages with JavaScript)](/102Notes/06DynamicWebWithJS.md)
-* [Next (08, Operators and Loops)](/102Notes/08OperatorsAndLoops.md)
+* [Home](../README.md)
+* [Prev (06, Activate Web Pages with JavaScript)](./06DynamicWebWithJS.md)
+* [Next (08, Operators and Loops)](./08OperatorsAndLoops.md)
