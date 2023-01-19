@@ -23,6 +23,6 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 - Finally, Self feedback - review your own actions and learn from ``misttakes`` <s> mistKES </s> mistakes every once in a while, this would force yourself to recognise where you've improved, make new strategies for improvements and both whats' going well, and well... not.
 
-[Home](https://rookie2556.github.io/Notes/)
-[Prev](https://rookie2556.github.io/Notes/)
-[Next](https://rookie2556.github.io/Notes/102Tuesday.html)
+
+[Home](../README.md)
+[Next (01, Learning Markdown)](/102Notes/01MarkDown.md)
