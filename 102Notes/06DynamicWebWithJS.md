@@ -225,3 +225,6 @@ underscore is another valid Js Variable name, Usually mixed with letters e.g. "_
   > </script>
  **I didn't really understand this.**
 
+* [Home](/102Notes/01MarkDown.md)
+* [Prev (05, Design web pages with CSS)](/102Notes/05DesignWithCSS.md)
+* [Next (07, Programming with JavaScript)](/102Notes/07programmingWithJavaScript.md)
