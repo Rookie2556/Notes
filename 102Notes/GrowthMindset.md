@@ -23,6 +23,10 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 - Finally, Self feedback - review your own actions and learn from ``misttakes`` <s> mistKES </s> mistakes every once in a while, this would force yourself to recognise where you've improved, make new strategies for improvements and both whats' going well, and well... not.
 
+# I would like to learn about:
+- Sucess stories of people who adopted the growth mindset and became sucessful because of it.
+- More examples of Fixed mindset, as none really come to mind.
+
 
 * [Home](../README.md)
 * [Next (01, Learning Markdown)](./01MarkDown.md)
