@@ -94,5 +94,5 @@ From the quiz:
 - I didn't know what the a extension on rbg and hsl meant - through the quiz, It is the strength of that colour, still unsure as to what "a" stands for but know its' role. -- I now know  it stands for alpha, no idea why.
 
 * [Home](/102Notes/01MarkDown.md)
-* [Prev (04, Structure the web pages with HTML)](/102Notes/04StructureusingHTML.md)
-* [Next (06, Activate web pages with CSS)](/102Notes/06DynamicWebWithJS.md)
+* [Prev (04, Structure the web pages with HTML)](./04StructureusingHTML.md)
+* [Next (06, Activate web pages with CSS)](./06DynamicWebWithJS.md)
