@@ -81,12 +81,13 @@ This page in particular is to introduce myself, tell you about me and provide a 
 
 - [Authors' Profile](https://github.com/Rookie2556)
 
-* [102Monday](/102Notes/102Monday.md)
-* [102Tuesday](/102Notes/102Tuesday.md)
-* [102Wednesday](/102Notes/102Wednesday.md)
-* [102Thursday](/102Notes/102Thursday.md)
-* [102Thursday2](/102Notes/102Thursday2.md)
-* [File7](/102Notes/file7.md)
-* [File8](/102Notes/file8.md)
-* [ProgrammingWithJavaScript](/102Notes/programmingWithJavaScript.md)
+* [Growth Mindset](/102Notes/_GrowthMindset.md)
+* [Learning Markdown](/102Notes/01MarkDown.md)
+* [The Coder's Computer](/102Notes/02TheCodersComputer.md)
+* [Revisions and the Cloud](/102Notes/03RevisionsAndTheCloud.md)
+* [Structure web pages with HTML](/102Notes/04StructureusingHTML.md)
+* [Design web pages with CSS](/102Notes/05DesignWithCSS.md)
+* [Activate web pages with JavaScript](/102Notes/06DynamicWebWithJS.md)
+* [Programming With JavaScript](/102Notes/07programmingWithJavaScript.md)
+* [Operators and Loops](/102Notes/08OperatorsAndLoops.md)
 
