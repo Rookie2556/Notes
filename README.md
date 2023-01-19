@@ -85,4 +85,6 @@ This page in particular is to introduce myself, tell you about me and provide a 
 
 -- [Second day!](102Tuesday.md)
 
--- left open for future days
+-- [First Day but within 102 directory](./102notes/102Monday.md)
+-- [Second Day but within 102 directory](./102notes/102Tuesday.md)
+
