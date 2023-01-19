@@ -1,4 +1,4 @@
-# Bio / Table of contents
+# Bio /Table of contents
 ## Who is Tomothy?
 
 I am ``Thomas Moore``, I like motorbikes, coding/general computer stuff and 3d printing.. Whenever I am currently in a phase of liking something, it is my whole personality, and this is supposed to be my bio sooo...
