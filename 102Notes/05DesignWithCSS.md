@@ -92,6 +92,9 @@ From the quiz:
 
 - I want to understand specs more
 - I didn't know what the a extension on rbg and hsl meant - through the quiz, It is the strength of that colour, still unsure as to what "a" stands for but know its' role. -- I now know  it stands for alpha, no idea why.
+- According to online sources, Java Script makes things look that much nicer that I want to attempt this:
+![HTML,CSS then JS](https://geekflare.com/wp-content/uploads/2019/12/css-gif.gif)
+- I have imagery of what I want my design to look like, I want to resemble somewhat, the theme song or caravan from breaking bad, and to have a smoke effect like the theme song, use similar fonting to the general show etc.
 
 * [Home](../README.md)
 * [Prev (04, Structure the web pages with HTML)](./04StructureusingHTML.md)
