@@ -81,7 +81,7 @@ This page in particular is to introduce myself, tell you about me and provide a 
 
 - [Authors' Profile](https://github.com/Rookie2556)
 
-* [Growth Mindset](/102Notes/_GrowthMindset.md)
+* [Growth Mindset](/102Notes/GrowthMindset.md)
 * [1- Learning Markdown](/102Notes/01MarkDown.md)
 * [2- The Coder's Computer](/102Notes/02TheCodersComputer.md)
 * [3 - Revisions and the Cloud](/102Notes/03RevisionsAndTheCloud.md)
