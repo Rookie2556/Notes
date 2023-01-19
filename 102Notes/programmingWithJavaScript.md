@@ -104,5 +104,12 @@ let text = "The Temperature is " + toCelsius(15) + " Celsius"; is a valid way to
 ---
 **multiplication is asterisk**
 
+
+| Operators     | 
+| ------------- |
+| **Assignment is =** | 
+| **Addition is +**  |
+| **multiplication is asterisk** |
+
 ## I want to know more about
 - I want to have more practice with "demo").innerHTML = .. type scenarios as I was really testing my confidence and attempted to explain it as simply as I could in attempt to better understand and may not quite understand yet.
