@@ -1,4 +1,4 @@
-## Git Intro
+# Git Intro
 
 Git is defined as >a distributed version control system: tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 developers of git back in 2002, created "BitKeeper" which was similar to the git we know and love 💙 which underwent drama 
@@ -93,3 +93,9 @@ git stashing - when a change isn't wanted to be published nor lost. > git stash
 - >-$ git commit -m “any message here” 
 - in what instance is the above actually used?
 - Is there a way of structuring better in HTML than I've shown?
+
+
+* [Home](/102Notes/01MarkDown.md)
+* [Prev (02, The Coder's Computer](/102Notes/02TheCodersComputer.md)
+* [Next (04, Structure web pages with HTML)](/102Notes/04StructureusingHTML.md)
+
