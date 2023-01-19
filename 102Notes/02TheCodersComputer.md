@@ -95,6 +95,6 @@ Git is the local copy of the github, GitHub is the remote copy of the git. *depe
 
 * [Home](/102Notes/01MarkDown.md)
 * [Prev (01, Learning Markdown)](/102Notes/01MarkDown.md)
-* [Next (03, Revisions and the Cloud)](/102Notes/02TheCodersComputer.md)
+* [Next (03, Revisions and the Cloud)](/102Notes/03RevisionsAndTheCloud.md)
 
 
