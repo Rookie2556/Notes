@@ -98,18 +98,68 @@ let text = "The Temperature is " + toCelsius(15) + " Celsius"; is a valid way to
 
 ## JavaScript Operators
 
-**Assignment is =**
----
-**Addition is +**
----
-**multiplication is asterisk**
-
-
 | Operators     | 
 | ------------- |
 | **Assignment is =** | 
 | **Addition is +**  |
 | **multiplication is asterisk** |
+| **exponentiation is double asterisk** |
+| **division is /** |
+| **Mod is %** |
+| **Increment is ++** |
+| **Decrement is --** |
+
+Like Python, one could change a variable like so:
+
+> x += 5;
+
+This would result the same as x +5.
+
+        Operator Example Same As
+        =	x = y	x = y
+        +=	x += y	x = x + y
+        -=	x -= y	x = x - y
+        *=	x *= y	x = x * y
+        /=	x /= y	x = x / y
+        %=	x %= y	x = x % y
+        **=	x **= y	x = x ** y
+
+        ----------------------------
+        
+        Comparison operators:
+
+        Operator Description
+        ==	equal to
+        ===	equal value and equal type
+        !=	not equal
+        !==	not equal value or not equal type
+        >	greater than
+        <	less than
+        >=	greater than or equal to
+        <=	less than or equal to
+        ?	ternary operator
+        
+        ------------------------------
+        Operator	Description
+        &&	logical and
+        ||	logical or
+        !	logical not
+        -----------------------------
+        Operator	Description
+        typeof	Returns the type of a variable
+        instanceof	Returns true if an object is an instance of an object type
+        --------------------------------------------------------------------------
+        Operator	Description	Example	Same as	Result	Decimal
+        &	AND	5 & 1	0101 & 0001	0001	 1
+        |	OR	5 | 1	0101 | 0001	0101	 5
+        ~	NOT	~ 5	 ~0101	1010	 10
+        ^	XOR	5 ^ 1	0101 ^ 0001	0100	 4
+        <<	left shift	5 << 1	0101 << 1	1010	 10
+        >>	right shift	5 >> 1	0101 >> 1	0010	  2
+        >>>	unsigned right shift	5 >>> 1	0101 >>> 1	0010	  2
+        -------------------------------------------------------------------------
+        
+        
 
 ## I want to know more about
 - I want to have more practice with "demo").innerHTML = .. type scenarios as I was really testing my confidence and attempted to explain it as simply as I could in attempt to better understand and may not quite understand yet.
