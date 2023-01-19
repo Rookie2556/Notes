@@ -16,7 +16,7 @@ Mark down is where there is minimal annotation to dictate the behavior of text, 
 
 - Another example is > Quoting speech , another could be listing, as such this list was created using dashes!
 
-[Another example of how basic and easy markdown is](https://open-learning-exchange.github.io/pages/vi/images/vi-markdown-syntax.png)
+![Another example of how basic and easy markdown is](https://open-learning-exchange.github.io/pages/vi/images/vi-markdown-syntax.png)
 As shown above, Markdown has a basic touch to it and really easy to do, you won't be dropping jaws with the quality markdown can achieve but It's definitely better than no markdown!
 
 - Most users would learn markdown in a matter of minutes as it is generally straight forwards, commonly used WYSIWYG (What you see is what you get) generators or HTML generators.
