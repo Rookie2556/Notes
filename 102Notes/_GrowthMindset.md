@@ -25,4 +25,4 @@ Most will have experienced some form of fixed mindset however accidental, and th
 
 
 * [Home](../README.md)
-* [Next (01, Learning Markdown)](/102Notes/01MarkDown.md)
+* [Next (01, Learning Markdown)](./01MarkDown.md)
