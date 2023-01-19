@@ -87,4 +87,5 @@ This page in particular is to introduce myself, tell you about me and provide a 
 
  * [First Day but within 102 directory](./102notes/102Monday.md)
 * [Second Day but within 102 directory](./102notes/102Tuesday.md)
+* [102Monday](/102Notes/102Monday.md)
 
