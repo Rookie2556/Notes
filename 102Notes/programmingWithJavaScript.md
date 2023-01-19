@@ -53,7 +53,7 @@ code will stop executing.
 >   // code to be executed
 > }
 
-The myFunction can be called or invoked via an event e.g. buttonPressed, or self invoked. In Python this would be myFunction()
+The myFunction can be called or invoked via an event e.g. buttonPressed, or self invoked. In Python this would be myFunction(), upon further reading - **This is same for JavaScript!** 🍾 👯
 
 | Advantages    | Disadvantages |
 | ------------- |:-------------:| 
@@ -61,3 +61,48 @@ The myFunction can be called or invoked via an event e.g. buttonPressed, or self
 | Saves Time    | Only worth if the action will be called more than once |
 | Makes Using Buttons feasible | usually conceptually harder to understand during programming | 
 | better readability | *Ugh gotta name this function amirite*| 
+
+Functions are **especially** useful for when input/output could differ.
+
+> function toCelsius(fahrenheit) {
+>  return (5/9) * (fahrenheit-32);
+> }
+> document.getElementById("demo").innerHTML = toCelsius(77);
+
+toCelsius is declared as a function, with fahrenheit as a parameter..
+return value is fahrenheit converted to celsius (*To be honest I don't really know how to cconvert between the two*)
+
+> function toCelsius(f) {
+> return (5/9) * (f-32); }
+
+This is the function in progress when function called..
+
+> document.getElementById("demo").innerHTML = toCelsius;
+document.getElementById means for the Js to interact with the HTML, e.g. obtain the result from called demo and that new value is called "toCelsius".
+
+To call toCelsius() means to collect the variable gotten from the function.
+to interact with the function toCelsius, one would use "toCelsius(valueToBeConvertedFrom), e.g. let x = toCelsius(15); would produce whatever the conversion is. 
+
+let text = "The Temperature is " + toCelsius(15) + " Celsius"; is a valid way to call and use the return in a single line.
+
+> // code here can NOT use carName
+>
+> function myFunction() {
+>  let carName = "Volvo";
+>  // code here CAN use carName
+> }
+>
+> // code here can NOT use carName
+
+*Nested = Local, not nested = Global, any files made from functions are local unless force made otherwise*
+
+## JavaScript Operators
+
+**Assignment is =**
+---
+**Addition is +**
+---
+**multiplication is asterisk**
+
+## I want to know more about
+- I want to have more practice with "demo").innerHTML = .. type scenarios as I was really testing my confidence and attempted to explain it as simply as I could in attempt to better understand and may not quite understand yet.
