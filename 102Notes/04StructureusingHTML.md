@@ -79,6 +79,6 @@ Images are done using img src=path alt=if can't load, what text replaces it with
     - <ul> lists </ul> <ol> ordered </ol>
     - <a> link </a> href would make it like the example given above.
     
-* [Home](/102Notes/01MarkDown.md)
+* [Home](../README.md)
 * [Prev (03, Revisions and the Cloud)](./03RevisionsAndTheCloud.md)
 * [Next (05, Design Web pages with CSS)](./05DesignWithCSS.md)
