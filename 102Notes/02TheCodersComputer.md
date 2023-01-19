@@ -94,7 +94,7 @@ Git is the local copy of the github, GitHub is the remote copy of the git. *depe
 - what is worth paying £70 for an ide??!
 
 * [Home](/102Notes/01MarkDown.md)
-* [Prev (01, Learning Markdown)](/102Notes/01MarkDown.md)
-* [Next (03, Revisions and the Cloud)](/102Notes/03RevisionsAndTheCloud.md)
+* [Prev (01, Learning Markdown)](./01MarkDown.md)
+* [Next (03, Revisions and the Cloud)](./03RevisionsAndTheCloud.md)
 
 
