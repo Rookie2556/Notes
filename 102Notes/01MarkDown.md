@@ -42,6 +42,6 @@ It is considered good practice to be aware of spacing, as such between the tag a
   
   **Not gonna lie, to me there is not too much difference between markdown and markup, but essentially Markdown is just easier and less detailed.
 
-[Home](https://rookie2556.github.io/Notes/)
-[Prev](https://rookie2556.github.io/Notes/)
-[Next](https://rookie2556.github.io/Notes/102Tuesday.html)
+* [Home](/102Notes/01MarkDown.md)
+* [Prev (Growth Mindset)](/102Notes/_GrowthMindset.md)
+* [Next (02, The Coder's Computer](/102Notes/02TheCodersComputer.md)
