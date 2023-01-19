@@ -85,7 +85,7 @@ git push - publishes this in github.
 
 git stashing - when a change isn't wanted to be published nor lost. > git stash
 
- ## Things I want to know more about
+ # Things I want to know more about:
 
 - In what instance would someone stash a change, seems like it'd get complicated fast. 
 - >- $ git add *.c
