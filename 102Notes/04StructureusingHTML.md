@@ -78,3 +78,7 @@ Images are done using img src=path alt=if can't load, what text replaces it with
     - <p> paragraphs </p>
     - <ul> lists </ul> <ol> ordered </ol>
     - <a> link </a> href would make it like the example given above.
+    
+* [Home](/102Notes/01MarkDown.md)
+* [Prev (03, Revisions and the Cloud)](/102Notes/03RevisionsAndTheCloud.md)
+* [Next (05, Design Web pages with CSS)](/102Notes/05DesignWithCSS.md)
