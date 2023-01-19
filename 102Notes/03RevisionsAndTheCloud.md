@@ -96,6 +96,6 @@ git stashing - when a change isn't wanted to be published nor lost. > git stash
 
 
 * [Home](/102Notes/01MarkDown.md)
-* [Prev (02, The Coder's Computer](/102Notes/02TheCodersComputer.md)
-* [Next (04, Structure web pages with HTML)](/102Notes/04StructureusingHTML.md)
+* [Prev (02, The Coder's Computer](./02TheCodersComputer.md)
+* [Next (04, Structure web pages with HTML)](./04StructureusingHTML.md)
 
