@@ -95,7 +95,7 @@ git stashing - when a change isn't wanted to be published nor lost. > git stash
 - Is there a way of structuring better in HTML than I've shown?
 
 
-* [Home](/102Notes/01MarkDown.md)
+* [Home](../README.md)
 * [Prev (02, The Coder's Computer](./02TheCodersComputer.md)
 * [Next (04, Structure web pages with HTML)](./04StructureusingHTML.md)
 
