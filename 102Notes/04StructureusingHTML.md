@@ -81,6 +81,14 @@ Images are done using img src=path alt=if can't load, what text replaces it with
 # I would like to learn about:
 - What is the best styled HTML website out there, I've seen some professional grade websites out there on HTML and would love to learn how to make those. 
 - I would like to go further into HTML and discover more variations of what I can do with just HTML.
+- I am going to try and create a nicer html before we start labs 06 as I am not pleased with my labs 05 and 04.
+
+![Really nice HTML only website](https://user-images.githubusercontent.com/122787483/213353543-0d1ccd48-8d16-45af-9974-0b406418405a.png)
+
+- Another user had done a similar style and I want to emulate this for myself.
+
+
+
 
 * [Home](../README.md)
 * [Prev (03, Revisions and the Cloud)](./03RevisionsAndTheCloud.md)
