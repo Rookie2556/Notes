@@ -78,7 +78,10 @@ Images are done using img src=path alt=if can't load, what text replaces it with
     - <p> paragraphs </p>
     - <ul> lists </ul> <ol> ordered </ol>
     - <a> link </a> href would make it like the example given above.
-    
+# I would like to learn about:
+- What is the best styled HTML website out there, I've seen some professional grade websites out there on HTML and would love to learn how to make those. 
+- I would like to go further into HTML and discover more variations of what I can do with just HTML.
+
 * [Home](../README.md)
 * [Prev (03, Revisions and the Cloud)](./03RevisionsAndTheCloud.md)
 * [Next (05, Design Web pages with CSS)](./05DesignWithCSS.md)
