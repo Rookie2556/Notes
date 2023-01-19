@@ -213,11 +213,28 @@ underscore is another valid Js Variable name, Usually mixed with letters e.g. "_
 
 [This content is from here](https://www.w3schools.com/js/js_variables.asp)!
 
+Following along the lesson: (VS was not working for me)
+
+- > <link rel="stylesheet" type="text/css" href="styles.css">
+- This is entered to 'include' the JavaScript into our workspace for the website.
+- console.log(Parameter) -- writes to website log every time loaded
+- prompt("What will be in the pop up window
+
+Syntax of if statement:
+- If (Thing checked){
+-   //command
+-  } else {
+-   //Dif command
+-  }
+
+
+
 ## I would like to learn more about:
 
 - The Script part, I didn't fully understand what I was reading around this part and would like it explained to me.
 - I was not able to run any code personally, so I used the website's "Try me"s to learn coding for the time being, until I am properly introduced to JavaScript.
 - > <p id="demo"></p>
+
 
   > <script>
   > let carName = "Volvo";
