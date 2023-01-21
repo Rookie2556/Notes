@@ -139,7 +139,7 @@ while (FaveMovie !== "Cars 2") {
   let FaveMovie = prompt("What is your favourite movie? ")
 ```
 
-This would keep prompting the user to input a movie they think is a great movie, immediately dismiss them and ask again until their answer is *"Cars 2"* which is One of thousands of popular movies so it is unlikely, furthered by the syntax, they could write _"cars 2"_ _"car 2"_ _"That movie where theres a red car that goes vroom vroom" _ so usually the user should have a good idea of what is needed, and the programmer **(you)** should know what is acceptable, even if your favourite movie is Cars 2.
+This would keep prompting the user to input a movie they think is a great movie, immediately dismiss them and ask again until their answer is *"Cars 2"* which is One of thousands of popular movies so it is unlikely, furthered by the syntax, they could write _"cars 2"_ _"car 2"_ _"That movie where theres a red car that goes vroom vroom"_ so usually the user should have a good idea of what is needed, and the programmer **(you)** should know what is acceptable, even if your favourite movie is Cars 2.
 
 ## Things I want to know more about
 
