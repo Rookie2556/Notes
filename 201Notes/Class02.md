@@ -135,11 +135,11 @@ Shorthands are properties that can define many values in a single line e.g.
 - + it is generally considered best practice to avoid using inline styles as they can make the HTML more cluttered and         harder to maintain. It is better to separate the presentation (CSS) from the structure (HTML) for the sake of          
     organization and to make the code more reusable.
 - Review the block of code below and answer the following questions:
-- + What is representing the selector?
-- + Which components are the CSS declarations?
-- + Which components are considered properties?
+- What is representing the selector?
+- Which components are the CSS declarations?
+- Which components are considered properties?
 
-  ``` 2 {
+  ``` h2 {
      color: black;
      padding: 5px;
    } ```
@@ -154,10 +154,30 @@ If else statements - This is on the basis **If you are mean, I dont like you.. e
   
 example: 
   
-  ``` if
-
+  ``` if (condition) {
+          // do this }
+      else if (different condition) {
+          // do this instead } 
+      else if (condition 3) {
+          // do this instead }
+      else { // do this as a last resort {
+```
+  
+=== and !== — test if one value is identical to, or not identical to, another.
+< and > — test if one value is less than or greater than another.
+<= and >= — test if one value is less than or equal to, or greater than or equal to, another.
+  
+Nesting is allowed in if statements, as it adds another dimension to the original set. 
   
 
+An if statement checks a __ and if it evaluates to ___, then the code block will execute.
+What is the use of an else if? If the first statement is untrue, it could check another if statement.
+List 3 different types of comparison operators. Less than <, More than >, == equal
+What is the difference between the logical operator && and ||? AND includes everything so if both are true then it returns true if one is false the coniditon returns false, OR can have one or the other to return a true.
+  
+## I want to learn more about
+  
+- I want to have an interactive game like the selector game, where we work out what a else if does. 
   
 
 
