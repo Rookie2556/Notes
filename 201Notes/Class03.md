@@ -135,7 +135,7 @@ There are two types of boxes:
  
 **Inner display types: **
  
- **
+ 
  
  
  
