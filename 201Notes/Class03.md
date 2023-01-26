@@ -110,3 +110,32 @@ type = "i" in HTML
  
 ## Learn CSS
  
+### The Box model: 
+ 
+Everything in css is surronded by an invisible box, this section is to better understand this box.
+ 
+There are two types of boxes:
+ 
+ - Block
+ - Inline
+ 
+ The two types dictate how the item behaves relative to other items and it's own positioning.
+ 
+ They contain an inner display type and outer display type: 
+ 
+**Inner display types: ** 
+ 
+ **block** Will break onto a new line, width and height is respected.
+ Padding margin and border pushes other items around, will occupy its container 100%
+ 3 examples of this is - paragraphs, lists and spans.
+ 
+**in-line** Won't break onto a new line, width height don't apply.
+ padding margin and border pushes some items around.
+ 2 examples of this is - span, ul.
+ 
+**Inner display types: **
+ 
+ **
+ 
+ 
+ 
