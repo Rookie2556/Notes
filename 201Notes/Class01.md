@@ -10,7 +10,6 @@ According to google, the web is defined as:
 > noun
 > 1.
 > a network of fine threads constructed by a spider from fluid secreted by its spinnerets, used to catch its prey.
- 
 > 2.
 > a complex system of interconnected elements.
 > "he found himself caught up in a web of bureaucracy"
@@ -54,7 +53,7 @@ an idea as possible for the prospects of this website to avoid confusion later o
 
 ![213261561-fed91214-c6d6-4634-9d9c-04ca54711342](https://user-images.githubusercontent.com/122787483/214721379-93e1d949-c441-4284-8423-1536c8d40e6f.png)
 
-![Wireframe example.. ](https://user-images.githubusercontent.com/122787483/214721758-0e404479-5ec9-4b37-8187-0fac5747e0ff.jpg)
+![Bak1213](https://user-images.githubusercontent.com/122787483/214725960-6536d8bb-b06c-4941-8bde-47becdf2cc62.png)
 
 ![Wireframe](https://user-images.githubusercontent.com/122787483/214722028-f5a3ebe8-81a1-4e51-aaba-c837b82e323a.jpeg)
 
