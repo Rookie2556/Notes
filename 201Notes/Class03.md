@@ -133,9 +133,140 @@ There are two types of boxes:
  padding margin and border pushes some items around.
  2 examples of this is - span, ul.
  
-**Inner display types: **
+
+ A border would simply just make the boxes' width larger, and the height taller. Flex 
+ allows elements within a container to be aligned and distributed in a flexible way,
+
  
+ ``` Parts of a box
+Making up a block box in CSS we have the:
+
+Content box: The area where your content is displayed; size it using properties like inline-size and block-size or width and height.
+Padding box: The padding sits around the content as white space; size it using padding and related properties.
+Border box: The border box wraps the content and any padding; size it using border and related properties.
+Margin box: The margin is the outermost layer, wrapping the content, padding, and border as whitespace between this box and other elements; size it using margin and related properties.
+ ```
+
+![box-model](https://user-images.githubusercontent.com/122787483/215067593-d2b7c627-bb64-4f68-a9e3-fc858b16c4d1.png)
  
+ ## Learn Js
  
+### Arrays:
+ 
+ An array is a list of values, treated as an object. 
+ 
+ According to google:
+ 
+> array
+> /əˈreɪ/
+> Learn to pronounce
+> See definitions in:
+> All
+> Military
+> Mathematics
+> Computing
+> Law
+> noun
+> 1.
+> an impressive display or range of a particular type of thing.
+> "there is a vast array of literature on the topic"
+> 2.
+> an ordered series or arrangement.
+> "several arrays of solar panels will help provide power"
+
+An array is essentially just a list of values, typically of the same data type but isn't bound to.
+ 
+To **create** an array we use the following:
+ 
+ ``` const shopping = ['bread', 'milk', 'cheese', 'hummus', 'noodles']; ```
+ 
+ This names the list "shopping" and its values are bread, milk, cheese, hummus and noodles.
+ 
+ To find the length of an array we can use the following:
+ 
+ ``` console.log(shopping.length); ``` 
+ 
+ To access and modify we can do the following: 
+ 
+ ``` shopping[0] = 'tahini'; /// adds the value "tahini" as the first value in shopplist
+     console.log(shopping[3]); //prints hummus, the 4th item since tahini is now first. ```
+ 
+ You can also have multidimensional arrays, in which arrays can be held within arrays like so:
+ 
+ ``` const random = ['tree', 795, [0, 1, 2]];
+     random[2][2]; ``` 
+ 
+ You can also check the index of a specific item in an array like so:
+ 
+``` const shopping = ["ReadysaltedPringles", "cheeseandonionPringles" , "GreenPringles"] 
+    console.log(shopping.indexOf('GreenPringles'); //would return 2 ```
+ 
+ We can use the push() function to add to lists, like so:
+ 
+ ``` const letters = ['a','b'];
+ letters.push('c'); // the list is now a b c
+ letters.push('d','e'); // it is now a b c d e ```
+ 
+push adds it to the end of the array, the unshift() adds it to the start:
+ 
+ ``` letters.unshift('a'); // the list is now a a b c d e ```
+
+to remove an item, from the front - you use pop()
+ 
+ ``` letters.pop(); // the list is now a a b c d ```
+
+to remove an item from the back - you can use shift()
+ 
+ ``` letters.shift(); // a b c d ```
+ 
+ to remove a specific item whose item we know the index of we use splice like so:
+ 
+ ``` const index = letters.indexOf('c'); //returns 2
+if (index !== -1) {
+  letters.splice(index, 3); //the list is now a b d
+} ```
+
+To access each item can be useful, we use a for loop for this instance - 
+ 
+ ``` for (const letter of letters) {
+        console.log(letter); } ``` it prints each letter individually, but this can be adjusted to do something else. ```
+ 
+ No idea why you'd want to do this but here goes: map()
+ 
+ ``` const doubled = letters.map(double); // returns aa bb dd ```
+ 
+Filtering a list is useful, especially in a search function type style:
+ 
+ ``` function isLong(city) {
+  return city.length > 8;
+}
+const cities = ['London', 'Liverpool', 'Totnes', 'Edinburgh'];
+const longer = cities.filter(isLong);
+console.log(longer);  // [ "Liverpool", "Edinburgh" ]
+```
+ 
+ ### Expressions and operators
+ 
+*t a high level, an expression is a valid unit of code that resolves to a value. There are two types of expressions: those that have side effects (such as assigning values) and those that purely evaluate.*
+ 
+| Assignment       | x = f()       | x = f()       |
+|------------------|---------------|---------------|
+| Addition assignment | x += f()    | x = x + f()   |
+| Subtraction assignment | x -= f() | x = x - f()   |
+| Multiplication assignment | x *= f() | x = x * f()  |
+| Division assignment | x /= f()    | x = x / f()   |
+| Remainder assignment | x %= f()   | x = x % f()   |
+| Exponentiation assignment | x **= f() | x = x ** f() |
+| Left shift assignment | x <<= f()  | x = x  << f()  |\n| 
+| Bitwise AND assignment | x &= f()  | x = x & f()   |
+| Bitwise XOR assignment | x ^= f()  | x = x ^ f()   |
+| Bitwise OR assignment  | x |= f()  | x = x | f()   |
+| Logical AND assignment | x &&= f() | x && (x = f()) |
+| Logical OR assignment  | x ||= f() | x || (x = f()) |
+| Nullish coalescing assignment | x ??= f() | x ?? (x = f()) |
+ 
+We can destruct by doing the following to an array called foo:
+ 
+ ``` const [one, two, three] = foo; ```
  
  
