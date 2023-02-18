@@ -234,3 +234,54 @@ buttonElement.addEventListener('click', function(event) {
 });
 ``` 
 Allows for further real time eventlistening.
+
+Video player: 
+
+``` <button>Display video</button>
+
+<div class="hidden">
+  <video>
+    <source
+      src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm"
+      type="video/webm" />
+    <p>
+      Your browser doesn't support HTML video. Here is a
+      <a href="rabbit320.mp4">link to the video</a> instead.
+    </p>
+  </video>
+</div>
+``` 
+
+Event capturing is the process of handling an event starting from the root of the DOM, and moving up the tree hierarchy. Used for checking changes to the document as a whole. 
+
+``` document.addEventListener('click', function(event) {
+  console.log('capturing phase', event.target);
+}, true);
+``` 
+
+Event delegation is the technique used to handle events on multiple elements using a single event listener.
+
+```
+const list = document.querySelector('ul');
+
+list.addEventListener('click', function(event) {
+  if (event.target.nodeName === 'LI') {
+    // handle the click on the list item here
+  }
+});
+```
+
+### Questions
+
+How would you describe events to a non-technical friend?
+    Events is the website reacting to actions, actions cause reactions. The website would consider a click as an event and 
+    react accordingly
+When using the addEventListener() method, what 2 arguments will you need to provide?
+    The event to listen for e.g. click()
+    The function called when Click() occurs
+Describe the event object. Why is the target within the event object useful?
+    Is created automatically by the browser when events are being executed, storing information about the event.
+    Target is useful as it creates a reference to the element that caused the event. Would come in useful for types of         event targeters such as event bubbling and capturing. 
+What is the difference between event bubbling and event capturing?
+    Event capturing targets the highest ancestor, then moves down the group 
+    Event bubbling targets the target first, then bubbles up the dom group
